@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 67px;
+    max-width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.container{
+    padding: 22px 0;
+    border: 2px solid black;
+}
+.nav-bar{
+  
+    display: flex;
+}
+
+.myLists li{
+    list-style: none;
+    padding:22px
+}
+.janta{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.login{
+    background-color: #bc3c51;
+    color: #fff;
+    height: 63px;
+}
+
+.cart{
+    padding: 22px;
+}

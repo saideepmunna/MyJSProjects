@@ -1,0 +1,24 @@
+body{
+    background-color: aliceblue;
+}
+#myJoke{
+    height: 50px;
+    width: 100%;
+    background-color: aqua;
+    border: 3px solid black;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+}
+
+#footer{
+    position: fixed;
+    right: 0px;
+
+
+}
